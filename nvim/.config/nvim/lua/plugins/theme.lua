@@ -1,0 +1,1 @@
+/home/jderdock/.config/omarchy/current/theme/neovim.lua
